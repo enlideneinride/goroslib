@@ -325,3 +325,5 @@ Other non-Go libraries
 Conventions
 
 * https://github.com/golang-standards/project-layout
+
+Forked in in order to enable functionality according to webviz
